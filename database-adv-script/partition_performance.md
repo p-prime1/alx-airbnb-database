@@ -1,0 +1,1 @@
+The performance improved since it didnt have to scan through the whole column for values within a certain range
