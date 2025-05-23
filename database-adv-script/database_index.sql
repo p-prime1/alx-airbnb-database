@@ -1,0 +1,1 @@
+CREATE INDEX idx_ratings ON property(Ratings);
